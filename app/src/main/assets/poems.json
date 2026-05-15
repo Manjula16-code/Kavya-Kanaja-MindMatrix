@@ -1,0 +1,81 @@
+[
+  {
+    "id": 1,
+    "title": "ಬೆಳಗಿನ ಸೂರ್ಯ",
+    "content": "ಬೆಳಗಿನ ಸೂರ್ಯ ಹೊಳೆಯುತಿದೆ,\nಮನದಲಿ ಹೊಸ ಬೆಳಕು ಮೂಡಿದೆ.\nಹಸಿರು ಗಾಳಿ ಹಾಡುತಿದೆ,\nಹೊಸ ದಿನವು ನಗುತಿದೆ.",
+    "meaning": "This poem describes the beauty and positivity of a fresh morning.",
+    "poet": "Kuvempu",
+    "audio": "tts"
+  },
+
+  {
+    "id": 2,
+    "title": "ಮಳೆಯ ಹನಿ",
+    "content": "ಮಳೆಯ ಹನಿ ಬೀಳುತಿದೆ,\nಭೂಮಿಯ ಹೃದಯ ತಣಿಯುತಿದೆ.\nಮಣ್ಣಿನ ವಾಸನೆ ಹರಡಿದೆ,\nಪ್ರಕೃತಿ ನಗುತಿದೆ.",
+    "meaning": "This poem explains the peaceful feeling created by rainfall and nature.",
+    "poet": "D. R. Bendre",
+    "audio": "tts"
+  },
+
+  {
+    "id": 3,
+    "title": "ಕನ್ನಡ ನಾಡು",
+    "content": "ಕನ್ನಡ ನಾಡು ಸುಂದರ ತಾಣ,\nಸಂಸ್ಕೃತಿಯ ಸುವರ್ಣ ಗಾನ.\nಪರ್ವತ ನದಿ ಕಾಡಿನ ಮೇಳ,\nಇದು ನಮ್ಮ ಹೆಮ್ಮೆಯ ಊರು.",
+    "meaning": "This poem praises the beauty and culture of Karnataka.",
+    "poet": "Kuvempu",
+    "audio": "tts"
+  },
+
+  {
+    "id": 4,
+    "title": "ತಾಯಿ",
+    "content": "ತಾಯಿಯ ಮಮತೆ ಅಸಿಮಿತ,\nಅವಳ ಪ್ರೀತಿ ಅಮೂಲ್ಯ.\nನಗುತಲೇ ನೋವು ಮರೆಸುವಳು,\nಅವಳು ದೇವರ ರೂಪ.",
+    "meaning": "This poem talks about a mother's unconditional love and care.",
+    "poet": "K. S. Narasimhaswamy",
+    "audio": "tts"
+  },
+
+  {
+    "id": 5,
+    "title": "ಸ್ನೇಹ",
+    "content": "ಸ್ನೇಹವೆ ಜೀವನದ ಬೆಳಕು,\nಮನದೊಳಗಿನ ಅಮೂಲ್ಯ ಧನು.\nನಗು ನೋವು ಹಂಚಿಕೊಳ್ಳುವ,\nಸ್ನೇಹ ಸದಾ ಅಮರ.",
+    "meaning": "This poem explains the value of friendship in life.",
+    "poet": "Gopalakrishna Adiga",
+    "audio": "tts"
+  },
+
+  {
+    "id": 6,
+    "title": "ಪ್ರಕೃತಿ",
+    "content": "ಹಸಿರು ಮರಗಳ ನಾಟ್ಯ,\nಪಕ್ಷಿಗಳ ಮಧುರ ಗಾನ.\nಪ್ರಕೃತಿ ತಾಯಿಯ ಮಡಿಲಲ್ಲಿ,\nಶಾಂತಿ ಸಿಗುತ್ತದೆ.",
+    "meaning": "This poem describes the peace and beauty of nature.",
+    "poet": "Bendre",
+    "audio": "tts"
+  },
+
+  {
+    "id": 7,
+    "title": "ಕನಸು",
+    "content": "ಕನಸುಗಳು ಬದುಕಿನ ದಾರಿ,\nಹೊಸ ಗುರಿಯ ಬೆಳಕಿನ ಕಿರಣ.\nಧೈರ್ಯದಿಂದ ನಡೆದೆವು ಎಂದರೆ,\nಯಶಸ್ಸು ನಮ್ಮದೇ.",
+    "meaning": "This poem motivates people to chase dreams with courage.",
+    "poet": "Kuvempu",
+    "audio": "tts"
+  },
+
+  {
+    "id": 8,
+    "title": "ಶಾಲೆ",
+    "content": "ಶಾಲೆ ಜ್ಞಾನದ ದೇವಾಲಯ,\nಗುರುಗಳು ಜೀವನದ ದೀಪ.\nಪಾಠಗಳಲ್ಲಿ ಬೆಳಕು ಕಂಡು,\nಭವಿಷ್ಯ ರೂಪುಗೊಳ್ಳುತ್ತದೆ.",
+    "meaning": "This poem explains the importance of education and teachers.",
+    "poet": "B. M. Srikantaiah",
+    "audio": "tts"
+  },
+  {
+    "id": 9,
+    "title": "Jaya Bharata Jananiya Tanujate",
+    "content": "ಜಯ ಭಾರತ ಜನನಿಯ ತನುಜಾತೆ,\nಜಯ ಹೇ ಕರ್ನಾಟಕ ಮಾತೆ.\nಜಯ ಸುಂದರ ನದಿ ವನಗಳ ನಾಡೇ,\nಜಯ ಹೇ ರಸಋಷಿಗಳ ಬೀಡೆ.\n\nಭೂದೇವಿಯ ಮಕುಟದ ನವಮಣಿಯೆ,\nಗಂಧದ ಚಂದದ ಹೊನ್ನಿನ ಗಣಿಯೆ.\nರಾಘವ ಮಧುಸೂಧನರವತರಿಸಿದ\nಭಾರತ ಜನನಿಯ ತನುಜಾತೆ,\nಜಯ ಹೇ ಕರ್ನಾಟಕ ಮಾತೆ.\n\nಜನನಿಯ ಜೋಗುಳ ವೇದದ ಘೋಷ,\nಜನನಿಗೆ ಜೀವವು ನಿನ್ನಾವೇಶ.\nಹಸುರಿನ ಗಿರಿಗಳ ಸಾಲೇ,\nನಿನ್ನಯ ಕೊರಳಿನ ಮಾಲೆ.\nಕಪಿಲ ಪತಂಜಲ ಗೌತಮ ಜಿನನುತ\nಭಾರತ ಜನನಿಯ ತನುಜಾತೆ,\nಜಯ ಹೇ ಕರ್ನಾಟಕ ಮಾತೆ.\n\nಶಂಕರ ರಾಮಾನುಜ ವಿದ್ಯಾರಣ್ಯ,\nಬಸವೇಶ್ವರ ಮಧ್ವರ ದಿವ್ಯಾರಣ್ಯ.\nರನ್ನ ಷಡಕ್ಷರಿ ಪೊನ್ನ,\nಪಂಪ ಲಕುಮಿಪತಿ ಜನ್ನ.\nಕುಮಾರವ್ಯಾಸರ ಮಂಗಳಧಾಮ,\nಕವಿಕೋಗಿಲೆಗಳ ಪುಣ್ಯಾರಾಮ.\nನಾನಕ ರಮಾನಂದ ಕಬೀರರ\nಭಾರತ ಜನನಿಯ ತನುಜಾತೆ,\nಜಯ ಹೇ ಕರ್ನಾಟಕ ಮಾತೆ.\n\nತೈಲಪ ಹೊಯ್ಸಳರಾಳಿದ ನಾಡೆ,\nಡಂಕಣ ಜಕಣರ ನೆಚ್ಚಿನ ಬೀಡೆ.\nಕೃಷ್ಣ ಶರಾವತಿ ತುಂಗಾ,\nಕಾವೇರಿಯ ವರ ರಂಗ.\nಚೈತನ್ಯ ಪರಮಹಂಸ ವಿವೇಕರ\nಭಾರತ ಜನನಿಯ ತನುಜಾತೆ,\nಜಯ ಹೇ ಕರ್ನಾಟಕ ಮಾತೆ.\n\nಸರ್ವಜನಾಂಗದ ಶಾಂತಿಯ ತೋಟ,\nರಸಿಕರ ಕಂಗಳ ಸೆಳೆಯುವ ನೋಟ.\nಹಿಂದೂ ಕ್ರೈಸ್ತ ಮುಸಲ್ಮಾನ,\nಪಾರಸಿಕ ಜೈನರುದ್ಯಾನ.\nಜನಕನ ಹೋಲುವ ದೊರೆಗಳ ಧಾಮ,\nಗಾಯಕ ವೈಣಿಕರಾರಾಮ.\nಕನ್ನಡ ನುಡಿ ಕುಣಿದಾಡುವ ಗೇಹ,\nಕನ್ನಡ ತಾಯಿಯ ಮಕ್ಕಳ ದೇಹ.\nಭಾರತ ಜನನಿಯ ತನುಜಾತೆ,\nಜಯ ಹೇ ಕರ್ನಾಟಕ ಮಾತೆ.\nಜಯ ಸುಂದರ ನದಿ ವನಗಳ ನಾಡೇ,\nಜಯ ಹೇ ರಸಋಷಿಗಳ ಬೀಡೆ.",
+    "meaning": "This poem praises Karnataka and India.",
+    "poet": "Kuvempu",
+    "audio": "poem1.mp3"
+  }
+]
